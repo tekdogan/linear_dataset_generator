@@ -35,7 +35,6 @@ int main()
     }
     out.close();
     
-    system("PAUSE");
     return 0;
 }
 
